@@ -1,11 +1,18 @@
 [
   {
-    "key": "R1GXDLNW523YHC1T",
-    "client": "Nome do cliente",
-    "description": "Teste",
-    "generation_date": "2025-06-04",
-    "expiration_date": "2025-07-05",
+    "key": "1",
+    "client": "João da Silva",
     "machine_id": "5964CCAF-F606-11EE-825A-60C7271615C3",
-    "status": "active"
+    "description": "Licença padrão",
+    "expiration_date": "2025-12-31",
+    "status": "ativa"
+  },
+  {
+    "key": "2",
+    "client": "Maria",
+    "machine_id": "OUTRO-MACHINE-ID",
+    "description": "Licença de teste",
+    "expiration_date": "2025-07-15",
+    "status": "inativa"
   }
 ]
