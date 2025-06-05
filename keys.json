@@ -1,12 +1,12 @@
 [
   {
     "key": "85B7087C28",
-    "client": "edtNomeCliente",
+    "client": "João da Silva",
     "machine_id": "5964CCAF-F606-11EE-825A-60C7271615C3",
-    "description": "edtDescricao",
+    "description": "Licença padrão",
     "expiration_date": "2026-06-30",
     "status": "active"
-},
+  },
   {
     "key": "2",
     "client": "Maria",
