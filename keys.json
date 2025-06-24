@@ -1,18 +1,9 @@
 [
   {
-    "key": "85B7087C28",
-    "client": "test",
-    "machine_id": "5964CCAF-F606-11EE-825A-60C7271615C3",
-    "description": "Licença padrão",
-    "expiration_date": "2025-05-08",
-    "status": "active"
-  },
-  {
-    "key": "2",
-    "client": "Maria",
-    "machine_id": "OUTRO-MACHINE-ID",
-    "description": "Licença de teste",
-    "expiration_date": "2025-07-15",
-    "status": "inactive"
+    "MachineID": "62B837CC",
+    "DataAtivacao": "24/06/2025",
+    "ValidadeDias": 30,
+    "LastDate": "24/06/2025",
+    "LicenseKey": "b087a9529da8b22ede66fc71-30"
   }
 ]
